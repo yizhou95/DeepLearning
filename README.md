@@ -6,7 +6,7 @@ This is a repository for the Deep Learning (CSCI 7850) semester project. The pro
 This repository contains  procedures, all the model architecture, and their pre-trained weights.
 To clone the repository and run the notebook please execute the below Git command.
 ```sh
-[git clone](https://github.com/yizhou95/DeepLearning.git) https://github.com/yizhou95/DeepLearning.git
+git clone https://github.com/yizhou95/DeepLearning.git
 ```
   
 The deployment notebook is divided into several sections as below:
