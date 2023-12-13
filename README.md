@@ -5,9 +5,9 @@ This is a repository for the Deep Learning (CSCI 7850) semester project. The pro
 # Instructions
 This repository contains  procedures, all the model architecture, and their pre-trained weights.
 To clone the repository and run the notebook please execute the below Git command.
-'''
+```
 [git clone](https://github.com/yizhou95/DeepLearning.git) https://github.com/yizhou95/DeepLearning.git
-'''
+```
 The deployment notebook is divided into several sections as below:
 * Library
 * URLs
@@ -21,13 +21,13 @@ The dataset URL is available as below:
 https://yizhoubucket.s3.us-east-2.amazonaws.com/Covid19DatasetSample.zip
 
 The weights URLs are available as below:
-https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet50_weights.pth
-https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet50_gelu__weights.pth
-https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet101_weights.pth
-https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet101_gelu__weights.pth
-https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet_weights.pth
-https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet_gelu_weights.pth
-https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet201_weights.pth
-https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet201_gelu_weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet50_weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet50_gelu__weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet101_weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/resnet101_gelu__weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet_weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet_gelu_weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet201_weights.pth
+* https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet201_gelu_weights.pth
 
 
