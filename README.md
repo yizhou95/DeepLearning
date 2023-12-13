@@ -18,7 +18,7 @@ The deployment notebook is divided into several sections as below:
 * Each Model
 * Evaluate the model
 
-The dataset URL is available as below:
+The dataset URL is available as below:  
 https://yizhoubucket.s3.us-east-2.amazonaws.com/Covid19DatasetSample.zip
 
 The weights URLs are available as below:
