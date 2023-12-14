@@ -8,7 +8,8 @@ To clone the repository and run the notebook please execute the below Git comman
 ```sh
 git clone https://github.com/yizhou95/DeepLearning.git
 ```
-  
+After downloading the DeepLearning folder, click on the "Deployment.ipynb" file inside the DeepLearning folder, then restart the kernel and run all cells.     
+
 The deployment notebook is divided into several sections as below:
 * Library
 * URLs
@@ -31,4 +32,4 @@ The weights URLs are available as below:
 * https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet201_weights.pth
 * https://yizhoubucket.s3.us-east-2.amazonaws.com/chexnet201_gelu_weights.pth
 
-
+This project compares four models such as ResNet50, ResNet101, CheXNet101, and CheXNet201 using different nonlinear activation functions. The results will displayed at the end of the deployment file.
